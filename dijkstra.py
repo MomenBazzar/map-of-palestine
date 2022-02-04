@@ -2,7 +2,7 @@ import math
 from collections import defaultdict
 import heapq as heap
 
-
+# Adding comment to class Vertex
 class Vertex:
     def __init__(self, num, name, y_pos, x_pos):
         self.num = num
